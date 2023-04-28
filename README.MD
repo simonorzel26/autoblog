@@ -9,7 +9,7 @@ AutoBlog is an npm CLI tool that generates blog posts in markdown format using O
 You can install AutoBlog using npm. First, make sure you have Node.js installed on your machine. Then, run the following command:
 
 ```
-npm install -g autobl0g
+npm install -g autoblog
 ```
 
 ## Usage

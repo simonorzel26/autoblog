@@ -12,7 +12,7 @@ You can install AutoBlog using npm. First, make sure you have Node.js installed 
 npm install -g autoblog
 ```
 ```
-yarn install -g autoblog
+yarn add -g autoblog
 ```
 ```
 pnpm install -g autoblog

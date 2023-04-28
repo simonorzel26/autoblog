@@ -1,0 +1,10 @@
+{
+  "imports": {
+    "std/": "https://deno.land/std@0.185.0/",
+    "openai": "npm:openai"
+  },
+  "tasks": {
+    "dev": "deno run --allow-read --allow-write --allow-net index.ts",
+    "build": "deno compile --allow-read --allow-write --allow-net ./index.ts"
+  }
+}
